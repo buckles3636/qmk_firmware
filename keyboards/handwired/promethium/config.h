@@ -30,8 +30,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT         Promethium Keyboard
 
 /* key matrix size */
-#define MATRIX_COLS 6
-#define MATRIX_ROWS 9
+#define MATRIX_COLS 12
+#define MATRIX_ROWS 5
 
 /* default pin-out */
 #define MATRIX_COL_PINS { F4, F1, F0, D6, D0, D1 }

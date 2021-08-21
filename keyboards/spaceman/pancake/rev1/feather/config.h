@@ -17,8 +17,8 @@
 #include "config_common.h"
 
 /* Pancake default pinout */
-#define MATRIX_ROW_PINS { B5, D7, C6, D0 }
-#define MATRIX_COL_PINS { C7, D6, B7, B6, F0, D2, D3, F1, F4, F5, F6, F7 }
+#define MATRIX_ROW_PINS { F7, F6, F5, F4, F3 }
+#define MATRIX_COL_PINS { D1, D0, C6, D7, B5, B6, B7, D6, C7, F5, F6, F7 }
 #define UNUSED_PINS
 
 #define AdafruitBleResetPin D4
